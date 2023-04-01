@@ -1,1 +1,2 @@
 Today is fool's day
+learning Git is fun
