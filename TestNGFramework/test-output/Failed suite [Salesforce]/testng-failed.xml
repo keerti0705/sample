@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Salesforce]]">
+  <test thread-count="5" name="UserMenu(failed)(failed)">
+    <classes>
+      <class name="com.training.testcases.UserMenuTest">
+        <methods>
+          <include name="editViewTC12"/>
+          <include name="tearDown"/>
+          <include name="createNewViewTC11"/>
+          <include name="beforeMethod"/>
+          <include name="mergeAccsTC13"/>
+        </methods>
+      </class> <!-- com.training.testcases.UserMenuTest -->
+    </classes>
+  </test> <!-- UserMenu(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Salesforce]] -->

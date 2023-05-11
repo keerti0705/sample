@@ -1,0 +1,12 @@
+com\training\testcases\ContactsTabTest.class
+com\training\testcases\LeadsTabTest.class
+com\training\pages\ContactsTabPage.class
+com\training\testcases\OppotunityTabTest.class
+com\training\pages\LeadsTabPage.class
+com\training\pages\OpportunityTabPage.class
+com\training\pages\LoginPage.class
+com\training\pages\RandomScenariosPage.class
+com\training\testcases\LoginTest.class
+com\training\testcases\UserMenuTest.class
+com\training\pages\UserMenuPage.class
+com\training\testcases\RandomScenariosTest.class

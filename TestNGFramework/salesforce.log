@@ -1,0 +1,78 @@
+2023-03-28 08:48:18,523 INFO  [Log] New account created 
+2023-03-28 22:45:32,083 INFO  [Log] Create New View clicked 
+2023-03-28 23:08:00,792 INFO  [Log] Expected page :Recent Contacts 
+2023-03-28 23:08:00,807 INFO  [Log] Values same, hence Validated 
+2023-03-29 11:26:04,759 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-03-29 11:26:53,916 INFO  [Log] New account created 
+2023-03-29 12:06:24,955 INFO  [Log] Date Field selected 
+2023-03-29 12:06:30,371 INFO  [Log] From date selected 
+2023-03-29 12:06:31,541 INFO  [Log] To date selected 
+2023-03-30 08:34:02,487 INFO  [Log] Date Field selected 
+2023-03-30 08:34:07,857 INFO  [Log] From date selected 
+2023-03-30 08:34:09,047 INFO  [Log] To date selected 
+2023-03-30 08:42:21,481 INFO  [Log] Date Field selected 
+2023-03-30 08:42:28,461 INFO  [Log] From date selected 
+2023-03-30 08:42:31,183 INFO  [Log] To date selected 
+2023-03-30 09:15:26,777 INFO  [Log] Date Field selected 
+2023-03-30 09:15:32,380 INFO  [Log] From date selected 
+2023-03-30 09:15:33,653 INFO  [Log] To date selected 
+2023-03-30 09:15:43,841 INFO  [Log] Report Name enetered 
+2023-03-30 09:15:43,966 INFO  [Log] Unique name entered 
+2023-03-30 09:21:45,412 INFO  [Log] Date Field selected 
+2023-03-30 09:21:51,189 INFO  [Log] From date selected 
+2023-03-30 09:30:13,356 INFO  [Log] Date Field selected 
+2023-03-30 09:30:18,784 INFO  [Log] From date selected 
+2023-03-30 09:30:25,114 INFO  [Log] To date selected 
+2023-03-30 09:30:35,483 INFO  [Log] Report Name enetered 
+2023-03-30 09:40:13,131 INFO  [Log] Date Field selected 
+2023-03-30 09:40:18,501 INFO  [Log] From date selected 
+2023-03-30 09:40:24,771 INFO  [Log] To date selected 
+2023-03-30 09:40:35,048 INFO  [Log] Report Name enetered 
+2023-03-30 09:54:53,060 INFO  [Log] Date Field selected 
+2023-03-30 09:54:58,484 INFO  [Log] From date selected 
+2023-03-30 09:55:04,683 INFO  [Log] To date selected 
+2023-03-30 09:55:14,857 INFO  [Log] Report Name enetered 
+2023-03-30 11:44:39,428 INFO  [Log] Date Field selected 
+2023-03-30 11:44:44,798 INFO  [Log] From date selected 
+2023-03-30 11:44:50,981 INFO  [Log] To date selected 
+2023-03-30 11:45:01,165 INFO  [Log] Report Name enetered 
+2023-03-30 11:47:54,690 INFO  [Log] Date Field selected 
+2023-03-30 11:48:00,041 INFO  [Log] From date selected 
+2023-03-30 11:48:06,277 INFO  [Log] To date selected 
+2023-03-30 11:48:16,459 INFO  [Log] Report Name enetered 
+2023-03-30 13:33:20,549 INFO  [Log] Date Field selected 
+2023-03-30 13:33:26,213 INFO  [Log] From date selected 
+2023-03-30 13:33:32,479 INFO  [Log] To date selected 
+2023-03-30 13:33:42,652 INFO  [Log] Report Name enetered 
+2023-03-30 13:33:43,124 INFO  [Log] Unique name entered 
+2023-03-30 22:22:19,487 INFO  [Log] My Contacts clicked 
+2023-03-30 23:08:00,962 INFO  [Log] Pages same hence validated 
+2023-03-30 23:38:00,827 INFO  [Log] Pages same hence validated 
+2023-03-30 23:40:08,282 INFO  [Log] Expected error message displayed 
+2023-03-31 09:33:24,525 INFO  [Log] No new contact created 
+2023-04-03 08:45:13,630 INFO  [Log] Pages same hence validated 
+2023-04-03 09:51:14,588 INFO  [Log] Link displayed correctly 
+2023-04-03 09:51:21,112 INFO  [Log] Profile page displayed 
+2023-04-09 22:48:13,885 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-04-09 22:51:49,828 INFO  [Log] No new contact created 
+2023-04-09 22:57:13,834 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-04-09 23:39:30,111 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-04-10 11:32:51,803 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-04-12 16:05:21,415 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-04-12 16:41:16,342 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-05-04 09:45:27,459 INFO  [Log] Date Field selected 
+2023-05-04 09:45:33,317 INFO  [Log] From date selected 
+2023-05-04 09:45:39,512 INFO  [Log] To date selected 
+2023-05-04 09:45:49,720 INFO  [Log] Report Name enetered 
+2023-05-04 09:45:49,974 INFO  [Log] Unique name entered 
+2023-05-04 09:48:01,866 INFO  [Log] My Contacts clicked 
+2023-05-04 09:48:25,146 INFO  [Log] Pages same hence validated 
+2023-05-04 09:48:40,690 INFO  [Log] Create New View clicked 
+2023-05-04 09:48:56,455 INFO  [Log] Expected page :Recent Contacts 
+2023-05-04 09:48:56,456 INFO  [Log] Values same, hence Validated 
+2023-05-04 09:49:17,504 INFO  [Log] Pages same hence validated 
+2023-05-04 09:49:39,101 INFO  [Log] Expected error message displayed 
+2023-05-04 09:49:55,808 INFO  [Log] New account created 
+2023-05-05 09:12:18,433 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-05-05 09:38:03,980 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 
+2023-05-11 12:10:02,550 INFO  [Log] ****************           -S-T-A-R-T-loginTC01       **************** 

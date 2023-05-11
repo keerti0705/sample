@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Salesforce" duration-ms="57749" started-at="2023-05-11T12:09:16 PDT" finished-at="2023-05-11T12:10:13 PDT">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="57749" started-at="2023-05-11T12:09:16 PDT" finished-at="2023-05-11T12:10:13 PDT">
+      <class name="com.training.testcases.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="beforeMethod" is-config="true" duration-ms="9129" started-at="2023-05-11T12:09:16 PDT" finished-at="2023-05-11T12:09:25 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="UserNameDropDownTC05()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="UserNameDropDownTC05" duration-ms="6750" started-at="2023-05-11T12:09:25 PDT" finished-at="2023-05-11T12:09:32 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserNameDropDownTC05 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="afterMethod" is-config="true" duration-ms="597" started-at="2023-05-11T12:09:32 PDT" finished-at="2023-05-11T12:09:32 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTest.UserNameDropDownTC05()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="beforeMethod" is-config="true" duration-ms="3711" started-at="2023-05-11T12:09:32 PDT" finished-at="2023-05-11T12:09:36 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="forgotPwdTC04a()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="forgotPwdTC04a" duration-ms="1186" started-at="2023-05-11T12:09:36 PDT" finished-at="2023-05-11T12:09:37 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPwdTC04a -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="afterMethod" is-config="true" duration-ms="410" started-at="2023-05-11T12:09:37 PDT" finished-at="2023-05-11T12:09:38 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTest.forgotPwdTC04a()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="beforeMethod" is-config="true" duration-ms="3650" started-at="2023-05-11T12:09:38 PDT" finished-at="2023-05-11T12:09:41 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incorrectLoginTC02()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="incorrectLoginTC02" duration-ms="7077" started-at="2023-05-11T12:09:41 PDT" finished-at="2023-05-11T12:09:48 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectLoginTC02 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="afterMethod" is-config="true" duration-ms="394" started-at="2023-05-11T12:09:48 PDT" finished-at="2023-05-11T12:09:49 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTest.incorrectLoginTC02() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="beforeMethod" is-config="true" duration-ms="3519" started-at="2023-05-11T12:09:49 PDT" finished-at="2023-05-11T12:09:52 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="incorrectUsernamePwdTC04b()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="incorrectUsernamePwdTC04b" duration-ms="710" started-at="2023-05-11T12:09:52 PDT" finished-at="2023-05-11T12:09:53 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectUsernamePwdTC04b -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="afterMethod" is-config="true" duration-ms="402" started-at="2023-05-11T12:09:53 PDT" finished-at="2023-05-11T12:09:53 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTest.incorrectUsernamePwdTC04b()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="beforeMethod" is-config="true" duration-ms="3742" started-at="2023-05-11T12:09:53 PDT" finished-at="2023-05-11T12:09:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTC01()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="loginTC01" duration-ms="5010" started-at="2023-05-11T12:09:57 PDT" finished-at="2023-05-11T12:10:02 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTC01 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="afterMethod" is-config="true" duration-ms="555" started-at="2023-05-11T12:10:02 PDT" finished-at="2023-05-11T12:10:03 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTest.loginTC01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="beforeMethod" is-config="true" duration-ms="3640" started-at="2023-05-11T12:10:03 PDT" finished-at="2023-05-11T12:10:06 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="userNameTabTC03()[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="userNameTabTC03" duration-ms="6851" started-at="2023-05-11T12:10:06 PDT" finished-at="2023-05-11T12:10:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameTabTC03 -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:com.training.testcases.LoginTest@480bdb19]" name="afterMethod" is-config="true" duration-ms="364" started-at="2023-05-11T12:10:13 PDT" finished-at="2023-05-11T12:10:13 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.training.testcases.LoginTest.userNameTabTC03()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.training.testcases.LoginTest -->
+    </test> <!-- Login -->
+  </suite> <!-- Salesforce -->
+</testng-results>
